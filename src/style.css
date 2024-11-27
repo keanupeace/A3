@@ -1,4 +1,11 @@
 body {
-     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-family:"Varela Round", sans-serif;
      background-color: rgb(241, 204, 213);
+     margin: 0; 
+     padding: 5vw;
+
+}
+.wrapper {
+     max-width: 600px;
+     margin: 0 auto;
 }

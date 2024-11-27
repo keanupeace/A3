@@ -3,9 +3,8 @@ import '../style.css';
 import Todo from "./Todo.svelte";
 
 </script>
-
-
-
-<h1>get it done bith</h1>
-
-<Todo />
+<div class="wrapper">
+     <h1>To Do</h1>
+     
+     <Todo />
+     </div>
