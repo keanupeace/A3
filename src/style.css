@@ -3,7 +3,7 @@ body {
      background-color: rgb(241, 204, 213);
      margin: 0; 
      padding: 8vw;
-    
+    animation: 7s linear 0s infinite alternate both running color-change-2x;
 
 }
 .wrapper {

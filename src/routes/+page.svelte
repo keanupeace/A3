@@ -1,5 +1,6 @@
 <script>
 import '../style.css';
+import '../animista.css';
 import Todo from "./Todo.svelte";
 
 </script>
