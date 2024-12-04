@@ -88,7 +88,7 @@ li.done {
 }
 
 .done-list {
-     padding: 0;
+     padding: 2vw;
      list-style:none;
 }
 
@@ -127,6 +127,23 @@ form button {
      &:hover {
           background-color: #dfdfdf;
      }
+}
+@media screen and (max-width: 500px) {
+     .lists {
+     padding-left: 20%;
+     display: flex;
+     flex-direction: column;
+     justify-content: space-between;
+     & > div {
+          flex-basis: 50%;
+          flex-shrink: 0;
+     }
+    
+}
+.clear-button {
+     margin: 15%;
+}
+
 }
 
 </style>

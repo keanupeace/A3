@@ -15,12 +15,12 @@
     background: rgb(241, 204, 213);
   }
   100% {
-    background: rgb(171, 120, 167);
+    background: rgb(192, 168, 195);
   }
 }
 @keyframes color-change-2x {
   0% {
-    background:rgb(171, 120, 167);
+    background:rgb(192, 168, 195);
   }
   100% {
     background:rgb(241, 204, 213);
