@@ -2,10 +2,12 @@ body {
      font-family:"Varela Round", sans-serif;
      background-color: rgb(241, 204, 213);
      margin: 0; 
-     padding: 5vw;
+     padding: 8vw;
+    
 
 }
 .wrapper {
      max-width: 600px;
      margin: 0 auto;
+     padding-left: 6vw;
 }

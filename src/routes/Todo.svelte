@@ -89,6 +89,7 @@ li.done {
 
 .done-list {
      padding: 0;
+     list-style:none;
 }
 
 button {
@@ -111,7 +112,7 @@ form button {
 .clear-button {
      border-radius: 47%;
      cursor: pointer;
-     margin-left: 1vw;
+     margin-left: 3.8vw;
      padding: .5em;
      &:hover {
           background-color: #dfdfdf;
