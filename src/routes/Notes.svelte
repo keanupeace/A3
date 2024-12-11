@@ -39,20 +39,12 @@ function nuke () {
      localStorage.clear();
 }
 
-function clearDone() {
-     notesList = notesList.filter((item) => !item.done);
-     updateList();
-}
 
-$effect(() => {
-     doneList = notesList.filter((item) => item.done);
-})
-function undoThis(item) {
-     item.done = !item.done;
-}
+
+
 
 $inspect(notesList);
-$inspect(doneList);
+
 
 </script>
 
@@ -105,6 +97,7 @@ form {
           flex-basis: 50%;
           flex-shrink: 0;
      }
+     padding-left: 4vw;
 }
 ul {
           list-style:none;
