@@ -115,6 +115,7 @@ li.done {
 }
 
 button {
+     color: black;
      background-color: white;
 }
 input[type="text"] {
@@ -127,7 +128,6 @@ form button {
      margin-left: 1vw;
      padding: 0.6em 1rem;
      font-size: 1rem;
-     color: black;
      &:hover {
           background-color: #dfdfdf;
      }
@@ -137,7 +137,6 @@ form button {
      cursor: pointer;
      margin-left: 3.8vw;
      padding: .5em;
-     color: black;
      &:hover {
           background-color: #dfdfdf;
      }
