@@ -127,6 +127,7 @@ form button {
      margin-left: 1vw;
      padding: 0.6em 1rem;
      font-size: 1rem;
+     color: black;
      &:hover {
           background-color: #dfdfdf;
      }
