@@ -2,6 +2,7 @@
 import '../style.css';
 import '../animista.css';
 import Todo from "./Todo.svelte";
+import Notes from './Notes.svelte';
 
 
 </script>
@@ -11,4 +12,5 @@ import Todo from "./Todo.svelte";
      
      
      <Todo />
+     <Notes />
      </div>
