@@ -140,9 +140,7 @@ form button {
      }
     
 }
-.clear-button {
-     margin: 15%;
-}
+
 
 }
 

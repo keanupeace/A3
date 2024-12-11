@@ -3,6 +3,7 @@ import '../style.css';
 import '../animista.css';
 import Todo from "./Todo.svelte";
 
+
 </script>
 <div class="wrapper">
      <h1>To Do</h1>
