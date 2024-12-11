@@ -136,6 +136,7 @@ form button {
      cursor: pointer;
      margin-left: 3.8vw;
      padding: .5em;
+     color: black;
      &:hover {
           background-color: #dfdfdf;
      }
